@@ -1,3 +1,3 @@
 Ceci est un fichier de test parce qu'il faut bien apprendre
 Je modifie depuis GitHub pour test la commande "git pull"
-Cette modif ne doit apparaitre que dans la branche de test
+Cette modif ne doit apparaitre que dans la branche de test - finalement on le met aussi dans le branche principale
